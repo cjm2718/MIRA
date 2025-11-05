@@ -41,7 +41,7 @@ This simulation study compares various statistical methods for analyzing pain cl
 
 
 ## Running the Simulation
-The simulation parameters are set in sim_study.R
+The simulation parameters are set in sim_study.R.
 
-# Note: Simulation results are saved as .rds files locally
-# These files are not tracked in Git due to their large size
+## Other Notes
+Simulation results are saved as .rds files locally. These files are not tracked in Git due to their large size.
