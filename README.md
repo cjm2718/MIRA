@@ -1,6 +1,8 @@
-# MIRA: Multiple Imputation for Rescue Analgesia
+# MIRA: Multiple Imputation for Rescue Adjustment
 
-A comprehensive simulation study evaluating different statistical methods for handling rescue medication use in acute pain clinical trials, with focus on bunionectomy as the clinical model. This project introduces a reference-based multiple imputation approach to handling rescue medication.
+A simulation study evaluating different statistical methods for handling rescue medication use in acute pain clinical trials, with focus on bunionectomy as the surgical pain model. 
+
+This project introduces a reference-based multiple imputation approach, MIRA, to handling rescue medication based on the placebo-adjusted effect of a rescue medication.
 
 ## Project Overview
 
